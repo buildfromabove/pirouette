@@ -24,6 +24,6 @@ The main differences between the PiRouette and the many others are that I am pla
 
 I am planning on designing the CAD such that the shell can be 3D-printed by a home user, and will have a list of the electronic components that I use on the PCB, so that someone else can build a replica of the PiRouette.
 
-The CAD Page discusses the CAD.
+The [CAD Page](../main/CAD) discusses the CAD.
 
-The PCB Page discusses the electronics aspects of the design.
+The [PCB Page](../main/PCB) discusses the electronics aspects of the design.
