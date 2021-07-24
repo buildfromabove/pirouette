@@ -21,3 +21,9 @@ PiRouette is the name of my handheld Raspberry Pi CM4 computer project. The goal
 
 I want the PiRouette to have a form factor similar to many of the popular handheld PC's on the market, such as the Aya Neo and the Valve Steam Deck, to name a few.
 The main differences between the PiRouette and the many others are that I am planning on using the Raspberry Pi Compute Module 4 for the processing and graphics out, where the others use x86-based solutions, and that very few of them have detachable or interchangeable controllers. In addition, not many of them are open-source, and I want this project to be as open as possible.
+
+I am planning on designing the CAD such that the shell can be 3D-printed by a home user, and will have a list of the electronic components that I use on the PCB, so that someone else can build a replica of the PiRouette.
+
+The CAD Page discusses the CAD.
+
+The PCB Page discusses the electronics aspects of the design.
