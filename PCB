@@ -1,1 +1,5 @@
 This page goes over the PCB layout of the PiRouette, as well as explains the components
+
+Raspberry Pi Compute Module 4:    
+I'd like the handheld to be compatible with all versions of the CM4. However, this presents a conundrum: Some CM4's come with no WiFi or Bluetooth onboard the module. Others have eMMC, and others do not. [Here is the product brief, it shows the possible variations of the CM4](https://datasheets.raspberrypi.org/cm4/cm4-product-brief.pdf)
+To simplify things, I am assuming that the user will have a CM4 lite (no eMMC) with WiFi and Bluetooth.
