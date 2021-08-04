@@ -1,5 +1,8 @@
 PiRouette is the name of my handheld Raspberry Pi CM4 computer project. The goal is to have a working handheld computer with removable interchangeable controllers. I am building this as a hobby as I have time, so there is no set release date. I'll document my changes and updates to the project here, as I have updates to share.
 
+![image](https://github.com/buildfromabove/pirouette/blob/main/Images/CADFig1.png)
+<p align="center"> The current state of the PiRouette OML </p>
+
 **Here is the list of requirements that I have for the PC:**    
 1) 3 hours battery life while light gaming (or at least game streaming from a PC on the same network)
 2) 30 FPS average or better during the above activities (I'm going to use Pi Minecraft, YouTube, and Steam In-Home Streaming as my benchmarks for the above)
