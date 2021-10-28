@@ -1,6 +1,11 @@
 # Mechanical Overview
 This file gives an overview of the mechanical design of the PiRouette, with relevant links
 
+## Update October 27. 2021
+It's been a while since I've updated this page, so here goes. I've revised the OML and the button / thumbstick layouts based on a test print of the controller OML that I did shortly after the last update. The figure below shows what the current OML looks like:
+
+The controllers are more slim now, with the handle parts tucked closer to the edge. The layout has also changed to be a bit more conventional. I did this because it was hard to reach the interior buttons with my thumbs with the old layout.
+
 ## Update August 3, 2021
 Figure 1 below shows the first iteration of the controller and main body. As of right now, the CAD exists as two hollow shells; one each for the controller and the main chassis. I have not yet blocked off the requisite space for ports, circuit boards, or and wires, etc.
 
