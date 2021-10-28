@@ -9,7 +9,17 @@ It's been a while since I've updated this page, so here goes. I've revised the O
   <b> Figure 10.27.21.a </b> The second iteration of the controller and main chassis OML's.
 </p>
 
-I've also added in buttons to the assembly; the buttons are in roughly the locations that they will be in when I have the controller PCB in the CAD. I've decided that I'm going to use the 8mm soft tactile buttons from Adafruit (https://www.adafruit.com/product/3101), since I would prefer a more squishy button feel (I'm weird, I know) to the snappy feel that you get from traditional buttons.
+I've also added in buttons to the assembly; the buttons are in roughly the locations that they will be in when I have the controller PCB in the CAD. I've decided that I'm going to use the 8mm soft tactile buttons from Adafruit (https://www.adafruit.com/product/3101), since I would prefer a more squishy button feel (I'm weird, I know) to the snappy feel that you get from traditional buttons. Here's a shot of the buttons:
+
+![Controller Buttons 2](https://user-images.githubusercontent.com/80743890/139199934-dd9c6464-2fa8-40cf-aeb2-33fd26cfcdd7.png)
+<p align="center"> 
+  <b>Figure 10.27.21.b.</b> The buttons and left controller, from above.
+</p>
+
+![Controller Buttons](https://user-images.githubusercontent.com/80743890/139200247-c7468bcd-100d-4dbc-b037-79e7ac756016.png)
+<p align="center"> 
+  <b>Figure 10.27.21.c.</b> The interior of the left controller, right controller for contrast.
+</p>
 
 The controllers are more slim now, with the handle parts tucked closer to the edge. The layout has also changed to be a bit more conventional. I did this because it was hard to reach the interior buttons with my thumbs with the old layout.
 
