@@ -1,8 +1,15 @@
 # Mechanical Overview
 This file gives an overview of the mechanical design of the PiRouette, with relevant links
 
-## Update October 27. 2021
+## Update October 27, 2021
 It's been a while since I've updated this page, so here goes. I've revised the OML and the button / thumbstick layouts based on a test print of the controller OML that I did shortly after the last update. The figure below shows what the current OML looks like:
+
+![CADFig2](https://user-images.githubusercontent.com/80743890/139198908-5172ad8b-2777-4524-b17e-6e636e8b2371.png)
+<p align= "center">
+  <b> Figure 10.27.21.a </b> The second iteration of the controller and main chassis OML's.
+</p>
+
+I've also added in buttons to the assembly; the buttons are in roughly the locations that they will be in when I have the controller PCB in the CAD. I've decided that I'm going to use the 8mm soft tactile buttons from Adafruit (https://www.adafruit.com/product/3101), since I would prefer a more squishy button feel (I'm weird, I know) to the snappy feel that you get from traditional buttons.
 
 The controllers are more slim now, with the handle parts tucked closer to the edge. The layout has also changed to be a bit more conventional. I did this because it was hard to reach the interior buttons with my thumbs with the old layout.
 
